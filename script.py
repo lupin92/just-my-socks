@@ -4,7 +4,6 @@ import json
 
 # List of URLs
 urls = [
-    "https://justmysocks3.net/members/getsub.php?service=55534&id=cc8c177d-7a9e-444c-86b4-a1fc90b1fbee&usedomains=1&noss=1",
     "https://justmysocks3.net/members/getsub.php?service=388138&id=827aa158-679f-4c5e-8a84-d8f7d142c9de&usedomains=1&noss=1",
     "https://justmysocks3.net/members/getsub.php?service=463251&id=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86&usedomains=1&noss=1",
     "https://justmysocks3.net/members/getsub.php?service=406623&id=a9fe9666-3dfd-444c-8b01-1b1e48478c53&usedomains=1&noss=1"
