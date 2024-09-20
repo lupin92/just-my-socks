@@ -1,4 +1,3 @@
-JMS-55534@c22s5.portablesubmarines.com:21733 = vmess, c22s5.portablesubmarines.com, 21733, username=cc8c177d-7a9e-444c-86b4-a1fc90b1fbee
 JMS-388138@c60s5.portablesubmarines.com:26351 = vmess, c60s5.portablesubmarines.com, 26351, username=827aa158-679f-4c5e-8a84-d8f7d142c9de
 JMS-463251@c78s5.portablesubmarines.com:63171 = vmess, c78s5.portablesubmarines.com, 63171, username=3f405ae0-e4f6-4ab5-8ca9-0bfe0717ed86
 JMS-406623@c88s5.portablesubmarines.com:38523 = vmess, c88s5.portablesubmarines.com, 38523, username=a9fe9666-3dfd-444c-8b01-1b1e48478c53
